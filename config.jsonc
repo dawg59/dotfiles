@@ -27,6 +27,7 @@
     "disk",
     "battery",
     "poweradapter",
+    "weather",
     "locale",
     "separator"
    
